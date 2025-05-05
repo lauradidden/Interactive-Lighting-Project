@@ -1,4 +1,4 @@
-# Human-Aware Smart Lighting System
+#💡 Real-Time Object Detection & Smart Lighting
 
 A real-time lighting control system that uses computer vision and environmental context to dynamically control DMX lighting. Designed for interactive spaces where lighting reacts to human presence and time of day.
 
