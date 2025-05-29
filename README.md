@@ -10,6 +10,8 @@ A real-time lighting control system that uses computer vision and environmental 
 - GPIO-connected button for immediate light override (DMX blackout)
 - DMX output over Art-Net protocol
 
+![Image](https://github.com/user-attachments/assets/2de7d450-a7d3-40a2-9bd2-daca3a457700)
+
 ## Hardware Requirements
 
 - **Intel RealSense D435 or D415** (RGB depth camera; only RGB stream used)
