@@ -10,7 +10,7 @@ A real-time lighting control system that uses computer vision and environmental 
 - GPIO-connected button for immediate light override (DMX blackout)
 - DMX output over Art-Net protocol
 
-![Image](https://github.com/user-attachments/assets/2de7d450-a7d3-40a2-9bd2-daca3a457700)
+<img src="https://github.com/user-attachments/assets/2de7d450-a7d3-40a2-9bd2-daca3a457700" width="500"/>
 
 ## Hardware Requirements
 
