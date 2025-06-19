@@ -14,8 +14,8 @@ A real-time lighting control system that uses computer vision and environmental 
 
 ## Hardware Requirements
 
-- **Intel RealSense D435 or D415** (RGB depth camera; only RGB stream used)
-- **Raspberry Pi 5**
-- **Art-Net compatible DMX controller**
-- **Programmable DMX lighting fixtures**
-- **Momentary push-button** connected to **GPIO pin 27**
+- Intel RealSense D435 or D415 (RGB depth camera; only RGB stream used)
+- Raspberry Pi 5
+- Art-Net compatible DMX controller
+- Programmable DMX lighting fixtures
+- Momentary push-button connected to GPIO pin 27
