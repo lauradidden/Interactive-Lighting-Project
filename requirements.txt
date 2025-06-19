@@ -1,0 +1,8 @@
+astral
+pyrealsense2
+numpy
+opencv-python
+filterpy
+pyartnet
+gpiozero
+
